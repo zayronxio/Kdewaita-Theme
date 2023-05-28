@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=kdewaita
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-PluginInfo-Author=zayronxio
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=zayronxio@gmail.com
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=kdewaita
+X-KDE-PluginInfo-Version=1.0.4
+X-KPackage-Dependencies=kns://icons.knsrc/api.kde-look.org/1349376,kns://icons.knsrc/api.kde-look.org/1990795,kns://plasma-themes.knsrc/api.kde-look.org/2012185,kns://aurorae.knsrc/api.kde-look.org/2002414,kns://wallpaper.knsrc/api.kde-look.org/2018412,kns://wallpaper.knsrc/api.kde-look.org/2023419,kns://plasmoids.knsrc/api.kde-look.org/1704465,kns://plasmoids.knsrc/api.kde-look.org/1473016,kns://plasmoids.knsrc/api.kde-look.org/1973454
